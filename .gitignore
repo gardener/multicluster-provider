@@ -1,0 +1,22 @@
+/args
+/bin
+/tmp/*
+/local
+/dev
+
+*.test
+*.coverprofile
+*.html
+.vscode
+.idea
+.DS_Store
+*~
+
+.cache_concourse
+TODO
+config.ign.merged
+config.img
+config.vmdk
+
+# gosec
+gosec-report.sarif
