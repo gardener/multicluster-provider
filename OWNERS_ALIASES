@@ -1,0 +1,9 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+
+aliases:
+  multicluster-provider-reviewers:
+  - rfranzke
+  - timuthy
+  multicluster-provider-approvers:
+  - rfranzke
+  - timuthy
