@@ -4,7 +4,7 @@ go 1.24.0
 
 require (
 	github.com/gardener/gardener v1.120.0
-	github.com/go-logr/logr v1.4.2
+	github.com/go-logr/logr v1.4.4
 	golang.org/x/sync v0.14.0
 	k8s.io/api v0.32.5
 	k8s.io/apimachinery v0.32.5
